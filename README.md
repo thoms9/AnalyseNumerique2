@@ -2,7 +2,7 @@
 
 Projet MAM3 (Polytech Nice Sophia / Université Côte d'Azur) portant sur la résolution numérique d'un système d'équations différentielles modélisant une cascade trophique inspirée des écosystèmes de Yellowstone, Isle Royale et Banff.
 
-**Auteurs du projet original :** Eloise van Rossum, Alexis Battaglino, Sixtine Camozzi, Thomas Begotti
+**Auteurs du projet original :** Thomas Begotti et 3 autres étudiants
 
 ## Contexte
 
@@ -46,4 +46,8 @@ RK4 a été retenu comme méthode principale pour les simulations : il offre une
 
 ## Contribution personnelle
 
-Ma contribution sur ce projet couvre la méthode d'Euler implicite (Newton-Raphson) jusqu'à la fin du projet.
+Mes contributions sur ce projet sont :
+
+- Implémentation de la méthode de Runge-Kutta d'ordre 4 (RK4)
+- Implémentation de la méthode multipas d'Adams-Bashforth 4 (AB4)
+- Réalisation des graphiques
